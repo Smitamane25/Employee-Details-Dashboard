@@ -27,29 +27,30 @@ Since, exit rate (almost 10.30 %) of employees are less than working number of e
         Exit Rate = COUNT(Exit Date)/COUNT(Employee ID)
 
 - Step 4 :  Visual filters (Control) were added for four fields named "Date", "Country", "Department" & "Gender".
-![Screenshot 2024-06-27 173934](https://github.com/Smitamane25/Smitamane25/assets/171058471/c557102b-2cdf-4034-8550-b12a021affc4)
+![Screenshot 2024-06-27 173934](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/d3a14b11-9934-4e34-86a5-58f9d3550033)
+
 - Step 5 : Add table with heatmap to show top 10 paid employee name by salary. For top 10 employees add no of rows as 10 and then sort it in descending order by annual salary.
-![Screenshot 2024-06-27 171034](https://github.com/Smitamane25/Smitamane25/assets/171058471/36eacb83-c15d-4fdb-b762-649007171c7d)
+![Screenshot 2024-06-27 171034](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/a1596d43-7b3d-4fff-94ab-706549a9e353)
 
 - Step 6 : Add bar chart to show no. of employess under each job role.
-![Screenshot 2024-06-28 161014](https://github.com/Smitamane25/Smitamane25/assets/171058471/cd5da1ea-069f-4469-b181-3f43143e24dd)
+![Screenshot 2024-06-28 161014](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/eeaefd20-8b1b-47d3-88d8-0ba2d0278469)
 - Step 7 :  Add time series chart to show hiring data on yearly basis.Change the data type of hire date as year to show yearly basis data.
-![Screenshot 2024-06-28 161027](https://github.com/Smitamane25/Smitamane25/assets/171058471/55ff45e6-9d73-4414-b170-ee99f9a13be3)
+![Screenshot 2024-06-28 161027](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/85bb48c6-ac68-4bbe-88a2-237ce52886c0)
 - Step 8 : Add bubble map chart to show no of employees in different cities of different countries like US, China, Brazil.
-![Screenshot 2024-06-28 161047](https://github.com/Smitamane25/Smitamane25/assets/171058471/72c61a6a-dcb2-4587-a852-8876e5edd45c)
+![Screenshot 2024-06-28 161047](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/6b03e185-482e-41db-8493-46d92be91789)
 
 - Step 9 : Add tree map to show employee strength in each business unit.
-![Screenshot 2024-06-28 170436](https://github.com/Smitamane25/Smitamane25/assets/171058471/afac09cd-f7d0-4177-9c10-3f502b1fd130)
+![Screenshot 2024-06-28 170436](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/e328ab88-efb7-4e21-941f-e8580091e7db)
            
 - Step 10 : Add pie chart to show no of employee in percentage in each deprtment.
-![Screenshot 2024-06-28 161111](https://github.com/Smitamane25/Smitamane25/assets/171058471/986baab9-9b26-4db8-afc1-58f345ace4d9)
+![Screenshot 2024-06-28 161111](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/cb80bb0a-133e-4329-8459-b8d983e8f5b9)
  
  - Step 11 : The report was then published to Power BI Service.
  
  # Report Snapshot (Looker Studio)
 
  
-![Screenshot 2024-06-28 161211](https://github.com/Smitamane25/Smitamane25/assets/171058471/f0782d50-d0f1-42bd-8a50-830800799dc5)
+![Screenshot 2024-06-28 161211](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/6f8d8e6b-6097-478f-83fb-23075dcf1509)
 
 # Insights
 
