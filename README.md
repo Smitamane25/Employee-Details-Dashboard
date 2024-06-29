@@ -30,6 +30,7 @@ Since, exit rate (almost 10.30 %) of employees are less than working number of e
 ![Screenshot 2024-06-27 173934](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/d3a14b11-9934-4e34-86a5-58f9d3550033)
 
 - Step 5 : Add table with heatmap to show top 10 paid employee name by salary. For top 10 employees add no of rows as 10 and then sort it in descending order by annual salary.
+  
 ![Screenshot 2024-06-27 171034](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/a1596d43-7b3d-4fff-94ab-706549a9e353)
 
 - Step 6 : Add bar chart to show no. of employess under each job role.
@@ -40,6 +41,7 @@ Since, exit rate (almost 10.30 %) of employees are less than working number of e
 ![Screenshot 2024-06-28 161047](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/6b03e185-482e-41db-8493-46d92be91789)
 
 - Step 9 : Add tree map to show employee strength in each business unit.
+  
 ![Screenshot 2024-06-28 170436](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/e328ab88-efb7-4e21-941f-e8580091e7db)
            
 - Step 10 : Add pie chart to show no of employee in percentage in each deprtment.
