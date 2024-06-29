@@ -18,8 +18,7 @@ Since, exit rate (almost 10.30 %) of employees are less than working number of e
 - Step 3 :Scorecard visuals(KPI) were added to the canvas, such as total employees, working employees, number of employees got bonus,average salary of employees,avg age of employees and exit rate.
          Exit rate KPI was created using calculated field.
 
-![Screenshot 2024-06-27 160717](https://github.com/Smitamane25/Smitamane25/assets/171058471/d1d36a43-3cc7-471c-96c2-e70450d41620)
-
+![Screenshot 2024-06-27 160717](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/4c2cc396-5adc-4eb2-8847-01b6f3ae9371)
   Following expression was written to calculate Exit rate,
         
         Exit Rate = COUNT(Exit Date)/COUNT(Employee ID)
