@@ -19,8 +19,10 @@ Since, exit rate (almost 10.30 %) of employees are less than working number of e
          Exit rate KPI was created using calculated field.
 
 
-  Following expression was written to calculate Exit rate,
   ![Screenshot 2024-06-27 160717](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/4c2cc396-5adc-4eb2-8847-01b6f3ae9371)
+
+  
+  Following expression was written to calculate Exit rate,
         
         Exit Rate = COUNT(Exit Date)/COUNT(Employee ID)
 
