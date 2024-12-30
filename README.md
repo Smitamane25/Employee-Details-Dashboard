@@ -106,4 +106,4 @@ thus, maximum no of employees are belongs to United States .
       f) Human Resources = 109
       g) Finance = 98
 thus, IT department have maximum number of employee.
-![Screenshot 2024-12-30 161540](https://github.com/user-attachments/assets/3d46c26e-c026-4c29-a2af-a490d9a0204c)
+
